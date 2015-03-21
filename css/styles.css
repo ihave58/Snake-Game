@@ -1,0 +1,8 @@
+.container {
+    width: 1024px;
+    margin: 20px auto;
+}
+
+.container .snakeBoard canvas {
+    border: 2px solid #d5d5d5;
+}
